@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_header_buttons",
+  "info": {
+    "displayName": "button"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true,
+      "maxLength": 20
+    }
+  }
+}
